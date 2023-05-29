@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Calculate" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Calculate" />
+    <module name="Calculate" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
